@@ -1,0 +1,7 @@
+ipython
+pandas
+pyarrow
+numpy
+matplotlib
+apache-airflow
+apache-airflow-providers-apache-spark
